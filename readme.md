@@ -1,5 +1,8 @@
 # **🌍 Currency Converter**  
 
+![image](https://github.com/user-attachments/assets/9d4c319c-10df-43de-b64f-eaf3d01594c7)
+
+
 A simple **real-time currency converter** built with **Python** and **Gradio**, using the **Exchangerate-API** to fetch live exchange rates.  
 
 ## **🚀 Features**  
@@ -12,8 +15,8 @@ A simple **real-time currency converter** built with **Python** and **Gradio**, 
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/currency-converter.git
-   cd currency-converter
+   git clone https://github.com/AvulaBhumika/currency-converter-application.git
+   cd currency-converter-application
    ```
 
 2. **Install Dependencies**  
@@ -32,7 +35,9 @@ A simple **real-time currency converter** built with **Python** and **Gradio**, 
 3. Click **Submit** to see the converted value instantly!  
 
 ## **📷 Preview**  
-_(Insert a screenshot of the UI here)_  
+
+![image](https://github.com/user-attachments/assets/4da3529e-71ea-4cf0-8662-ac2addadc08d)
+
 
 ## **📜 License**  
 This project is open-source and available under the **MIT License**.  
