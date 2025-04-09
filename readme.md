@@ -5,9 +5,9 @@
 
 A simple **real-time currency converter** built with **Python** and **Gradio**, using the **Exchangerate-API** to fetch live exchange rates.  
 
-## **🚀 Features**  
+## **🚀 Features**              
 ✔ **Real-time Exchange Rates** – Fetches up-to-date rates dynamically.  
-✔ **Multiple Currency Support** – Convert between **USD, EUR, GBP, INR, JPY, CAD, AUD, CHF, CNY, SGD**.  
+✔ **Multiple Currency Support** – Convert between **USD, EUR, GBP, INR, JPY, CAD, AUD, CHF, CNY, SGD**.              
 ✔ **Interactive UI** – Built using **Gradio** for a seamless user experience.  
 ✔ **Robust Error Handling** – Manages invalid amounts and API failures smoothly.  
 
