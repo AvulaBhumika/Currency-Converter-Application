@@ -7,12 +7,12 @@ A simple **real-time currency converter** built with **Python** and **Gradio**, 
 
 ## **🚀 Features**              
 ✔ **Real-time Exchange Rates** – Fetches up-to-date rates dynamically.  
-✔ **Multiple Currency Support** – Convert between **USD, EUR, GBP, INR, JPY, CAD, AUD, CHF, CNY, SGD**.              
+✔ **Multiple Currency Support** – Convert between **USD, EUR, GBP, INR, JPY, CAD, AUD, CHF, CNY, SGD**.                                               
 ✔ **Interactive UI** – Built using **Gradio** for a seamless user experience.  
-✔ **Robust Error Handling** – Manages invalid amounts and API failures smoothly.  
+✔ **Robust Error Handling** – Manages invalid amounts and API failures smoothly.                            
 
 ## **🛠 Installation & Setup**  
-
+            
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/AvulaBhumika/currency-converter-application.git
